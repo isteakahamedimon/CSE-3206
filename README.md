@@ -1,3 +1,3 @@
 # **Lab 3**
 
-#### Implements Flyweight and Proxy Design Pattern
+#### Implemented Flyweight and Proxy Design Pattern
